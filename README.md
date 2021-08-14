@@ -10,8 +10,8 @@ Use website url below to access the site.
 https://kboston91.github.io/Horiseon/
 
 ## Made With
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Contribution
 Made with ❤️ by Suzette Boston
