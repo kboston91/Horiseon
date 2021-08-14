@@ -16,5 +16,5 @@ https://kboston91.github.io/Horiseon/
 ## Contribution
 Made with ❤️ by Suzette Boston
 
-### License
+### Copyright &copy; 2021 Suzette Boston
 ![MIT License](https://img.shields.io/github/license/kboston91/Horiseon?label=License)
